@@ -1,5 +1,5 @@
 import { NavBarGuitarLA } from "../ui/NavBarGuitarLA"
-import styles from '../../styles/footer.module.css'
+import styles from '../../styles/Footer.module.css'
 
 export const Footer = () => {
   return (

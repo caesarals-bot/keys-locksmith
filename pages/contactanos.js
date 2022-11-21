@@ -1,6 +1,7 @@
 
 import { LayoutsIndex } from '../components/layouts/LayoutsIndex'
-import ContactanosForm from '../components/ui/formulario/contactanosForm'
+import ContactanosForm from '../components/ui/formulario/ContactanosForm'
+
 
 export default function Contactanos() {
   return (
